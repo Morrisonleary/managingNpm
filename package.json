@@ -1,9 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {
-		"name": "Spencer Harris",
-		"email": "Morrisonleary@gmail.com"
-	},
+	"author": "Spencer Harris",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
