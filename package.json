@@ -3,6 +3,7 @@
 	"author": "Spencer Harris",
 	"description": "Showcasing my node js skills",
 	"keywords": ["nodeJs", "freecodecamp", "learning"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
