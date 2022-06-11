@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Spencer Harris",
+	"description": "Showcasing my node js skills",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
